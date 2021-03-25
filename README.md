@@ -1,4 +1,12 @@
-### Hi there 👋
+# Fun fact: 
+## I'm bad in all this things but gaming
+Literally only I learn to do this
+
+```javascript
+
+console.log('Hello World!')
+
+```
 
 <!--
 **LuiselprraYT/LuiselprraYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
