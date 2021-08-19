@@ -1,8 +1,8 @@
 # I am I if you didn't know
-Idk a guy that likes the web development and do of traductor when im am bored
+Idk a guy that likes the web development and do of traductor when im am bored</br>
 And i just learning javascript and I like it!
 
-## Epic facts section: 
+## Super duper epic facts section: 
 - I'm bad in everything but gaming
 - I cant do a backflip
 - I like cookies
