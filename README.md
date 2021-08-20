@@ -4,7 +4,7 @@ And i just learning javascript and I like it!
 
 ## Super duper epic facts section: 
 - I'm bad in everything but gaming
-- I cant do a backflip
+- I can't do a backflip
 - I like cookies
 - I use my pc for like 15 hours per day
 - I like to do nothing
