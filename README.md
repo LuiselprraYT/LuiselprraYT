@@ -9,4 +9,6 @@ And i just learning javascript and I like it!
 - I use my pc for like 15 hours per day
 - I like to do nothing
 
-Thanks for seeing this!
+## Social things:
+
+<!-- To do: Social things -->
