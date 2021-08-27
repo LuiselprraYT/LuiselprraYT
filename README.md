@@ -1,5 +1,5 @@
 # I am I if you didn't know
-Idk a guy that likes the web development and do of traductor when im am bored</br>
+Idk a guy that likes the web development and do of traductor when im am bored  
 And i just learning javascript and I like it!
 
 ## Super duper epic facts section: 
