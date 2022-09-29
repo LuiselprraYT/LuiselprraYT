@@ -17,3 +17,6 @@ im gamer pro yay
 
 ## VIVA MÉXICO!!!! (idk i found this funny)
 ![](vivamexicohijuelachingada.png)
+
+## tako stats idk
+![](https://osu-sig.vercel.app/card?user=LuiselprraYT&mode=taiko&lang=en&blur=3&round_avatar=true&animation=true)
