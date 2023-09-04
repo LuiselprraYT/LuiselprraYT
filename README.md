@@ -1,4 +1,4 @@
-# LuiselprraYT's GitHub
-Welcome to my GitHub profile! Thanks for passing by!
+# hi
+here i store my configs and patches builds of things
 
-If you're searching more about me, you can check my webpage [here](https://luiselprrayt.github.io/)!
+thats it.
